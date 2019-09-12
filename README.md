@@ -30,6 +30,8 @@ OpenAI Gym
 NumPy  
 
 **Run:**   
+To use the environment I created, you will have to build it first. You can do this by running  ``` pip install -e .``` within the "tower" directory.
+
 The entry point for V1 is tower_q_learning.py. 
 Running the script will display the visualization using the previous q-learning table. I have included the optimal example in qtable_1.npy.
 
